@@ -447,6 +447,11 @@ textarea.input2 + .focus-input2::after {
   top: 3%;
   right: 3%;
 }
+.qr img
+{
+  position: relative;
+  height: 12em;
+}
 
 @media (min-width: 810px)
 {
